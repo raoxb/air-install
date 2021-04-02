@@ -11,31 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://g.baojiesports.com/bps/377288df/com.kaihei.ebjsz.ipa</string>
+					<string>https://github.com/raoxb/air-install/blob/master/photo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/raoxb/enterAPPTest/raw/develop/icon-57.png</string>
+					<string>https://github.com/raoxb/air-install/blob/master/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/raoxb/enterAPPTest/raw/develop/icon-512.png</string>
+					<string>https://github.com/raoxb/air-install/blob/master/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>应用的bundle-identifier</string>
+				<string>com.hysj.SecretPhoto2</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>暴鸡电竞</string>
+				<string>SecretPhoto</string>
 			</dict>
 		</dict>
 	</array>
